@@ -1,0 +1,118 @@
+ body {
+  font-family: "Agency FB";
+  font-size: 100%;
+  background-image: url(img/background.jpg);
+  margin-top: 30px;
+}
+
+#gBar {
+  border-top: 15px solid #336699;
+  padding-top: 15px;
+  border-radius: 10px;
+  margin-bottom: 5px;
+}
+
+.gHeader nav {
+  clear: both;
+  width: 100%;
+  height: 45px;
+  background-color: #666699;
+  border-radius: 5px;
+  opacity:0.6;
+}
+
+.gHeader nav ul {
+  list-style: none;
+}
+
+.gHeader nav ul li {
+  float: left;
+  padding: 2px;
+}
+
+a {
+  text-decoration: none;
+  color: #999999;
+  font-size: 18px;
+}
+
+.contact {
+  text-decoration: none;
+  color: #999999;
+  font-size: 15px;
+}
+
+.gHeader nav a:hover, .gHeader nav a:active, .gHeader nav .active a:link,
+.gHeader nav .active a:visited {
+  background-color: #8686B0;
+  text-shadow: none;
+}
+
+.gHeader nav ul li a:hover {
+color: #0DEFFF;
+}
+
+.active {
+	background-color: #8686B0;
+  text-shadow: none;
+}
+
+.gHeader nav ul li a {
+  border-radius: 5px;
+}
+
+.gHeader nav a:link, .gHeader nav a:visited {
+  color: #FFF;
+  display: inline-block;
+  padding: 10px 25px;
+  height: 20px;
+}
+
+h2 {
+	color: #313187;
+	text-align: center;
+}
+
+.gContent {
+  line-height: 25px;
+  border-radius: 5px;
+}
+
+.content {
+  width: 80%;
+  float: left;
+}
+
+.content1 {
+  background-color: #FFFFFF;
+  border-radius: 5px;
+  padding: 3% 5%;
+  margin-top: 2%;
+  font-size: 14px;
+  font-family: Trebuchet MS;
+  opacity:0.6;
+}
+
+.post-info {
+  font-style: italic;
+  color: #5C5C5C;
+  font-size: 90%;
+}
+
+.mainFooter {
+  width: 100%;
+  height: 20px;
+  float: left;
+  background-color: #666699;
+  border-radius: 5px;
+  opacity:0.4;
+  margin: 2% 0;
+}
+
+.mainFooter p {
+  width: 92%;
+  margin: 2px auto;
+  color: #FFF;
+  font-family: Trebuchet MS;
+  font-size: 12px;
+}
