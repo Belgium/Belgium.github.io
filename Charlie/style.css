@@ -1,6 +1,7 @@
 body {
     font-family: trebuchet ms;
-    background-color: #b8c3c2;
+    /*background-color: #b8c3c2;*/
+    background-image: url(img/content-bg.jpg);
 }
 
 a {
