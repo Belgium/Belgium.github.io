@@ -2,9 +2,6 @@ body {
     font-family: "Trebuchet MS";
     /*background-color: #b8c3c2;*/
     background-image: url('img/c.jpg');
-    background-repeat:no-repeat;
-    background-attachment:fixed;
-    background-position:center; 
 }
 
 a {
